@@ -2,8 +2,8 @@
 
 ## Yuri Gomes - Met4tron
 
-- 🔭 Atualmente trabalho na CliqueRetire 
-- 🌱 O que tenho aprendido? Javascript, Go e Elixir 
+- 🔭 Atualmente trabalho na Haytek 
+- 🌱 O que tenho aprendido? Javascript & Go
 - 💬 Pergunte-me quaisquer coisa, estarei aqui para ajudar
 
 <img src="https://simpleicons.org/icons/node-dot-js.svg" width="40" height="40"/> <img src="https://simpleicons.org/icons/react.svg" width="40" height="40"/> <img src="https://simpleicons.org/icons/docker.svg" width="40" height="40"/> <img src="https://simpleicons.org/icons/mongodb.svg" width="40" height="40"/> 
