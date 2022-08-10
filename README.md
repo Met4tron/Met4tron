@@ -1,7 +1,7 @@
 <h3> 🧝‍♂️: &nbsp;It's me, Yuri! </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 💼 &nbsp; Working as **Software Engineer** in <a href="haytek.com.br">Haytek</a>
+- 💼 &nbsp; Working as **Software Engineer** in <a href="https://haytek.com.br/index">Haytek</a>
 - 🌱 &nbsp; Learning **Golang and Software Architecture**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
