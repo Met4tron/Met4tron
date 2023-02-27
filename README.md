@@ -29,16 +29,6 @@
 
 <br/>
 
-<a href="https://github.com/Gurupreet">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=met4tron&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/VanessaSwerts">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=met4tron&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
 <h3> :earth_americas: &nbsp;Contacts: </h3> 
 
 [![Linkedin: Yuri Gomes](https://img.shields.io/badge/-yuurig-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuurig/)](https://www.linkedin.com/in/yuurig/)
