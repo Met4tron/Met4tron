@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a Software Engineer from Rio de Janeiro - Brazil<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Architectures and System Designs<br>- ⚡ In my free time i code and Overwatch (Platinum IV)!</p>
+<p align="left">I'm a Software Engineer from Rio de Janeiro - Brazil<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Architectures and System Designs<br>- ⚡ In my free time i code and play some games!</p>
 
 ###
 
